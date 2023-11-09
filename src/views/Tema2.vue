@@ -32,7 +32,7 @@
                   i.fas.fa-circle
                   | ¿Qué y cómo evaluamos?
 
-    p(data-aos="fade-right") Este plan interno de sensibilización está orientado a directores, jefes de oficina, funcionarios y contratistas del Ministerio de Salud y Protección Social entendidos como "cliente interno" y principal actor de la implementación, monitoreo y seguimiento de la política pública.
+    p(data-aos="fade-right") Este plan interno de sensibilización está orientado a directores, jefes de oficina, funcionarios y contratistas del Ministerio de Salud y Protección Social, entendidos como "cliente interno" y principal actor de la implementación, monitoreo y seguimiento de la política pública.
     p(data-aos="fade-right").mb-5 Entre los objetivos que se han trazado para sensibilizar a la población respecto al análisis del sistema de salud se encuentran:
 
     .row.justify-content-center.mb-5
@@ -232,7 +232,7 @@
         .row
           .col-md-8.mb-4.mb-md-0
             h3 Tablas de Retención Documental (TRD)
-            p Aquí se publican las Tablas de Retención Documental (TRD) vigentes y aprobadas por el Comité Evaluador de Documentos del Archivo General de la Nación Jorge Palacios Preciado, tienen aplicación a partir del cuatro (4) de junio de Documentos de base:
+            p Aquí se publican las Tablas de Retención Documental (TRD) vigentes y aprobadas por el Comité Evaluador de Documentos del Archivo General de la Nación Jorge Palacios Preciado, tienen aplicación a partir del cuatro (4) de junio de documentos de base:
             ul.lista-ul--color
               li 
                 i.fas.fa-angle-right(style="color:#00223D")

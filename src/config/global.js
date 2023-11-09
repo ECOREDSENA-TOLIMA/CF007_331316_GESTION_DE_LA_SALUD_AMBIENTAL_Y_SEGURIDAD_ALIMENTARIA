@@ -168,12 +168,12 @@ export default {
     {
       termino: 'ASIS',
       significado:
-        'Análisis de la Situación en Salud, es un proceso analítico-sintético que comprende diversos tipos de análisis tanto descriptivos como analíticos, que permiten caracterizar, medir y explicar el perfil de salud enfermedad de la población en su territorio, incluyendo los daños, riesgos y los determinantes de la salud que los generan (Ministerio de Salud y Protección Social, 2022).',
+        ' Análisis de la Situación en Salud, es un proceso analítico-sintético que comprende diversos tipos de análisis tanto descriptivos como analíticos, que permiten caracterizar, medir y explicar el perfil de salud enfermedad de la población en su territorio, incluyendo los daños, riesgos y los determinantes de la salud que los generan (Ministerio de Salud y Protección Social, 2022).',
     },
     {
       termino: 'EAPB',
       significado:
-        'Las Entidades Administradoras de Planes de Beneficios de Salud (EAPB) las  Entidades Promotoras de Salud del Régimen Contributivo y Subsidiado, Empresas Solidarias de Salud, las Asociaciones Mutuales en sus actividades de Salud, las Entidades Promotoras de Salud Indígenas, las Cajas de Compensación Familiar en sus actividades de salud, las entidades que administren planes adicionales de salud, las entidades obligadas a compensar, las entidades adaptadas de Salud, las entidades pertenecientes al régimen de excepción de salud y las universidades en sus actividades de salud (Ministerio de Salud y Protección Social, 2019).',
+        'Las Entidades Administradoras de Planes de Beneficios de Salud (EAPB), las  Entidades Promotoras de Salud del Régimen Contributivo y Subsidiado, Empresas Solidarias de Salud, las Asociaciones Mutuales en sus actividades de Salud, las Entidades Promotoras de Salud Indígenas, las Cajas de Compensación Familiar en sus actividades de salud, las entidades que administren planes adicionales de salud, las entidades obligadas a compensar, las entidades adaptadas de Salud, las entidades pertenecientes al régimen de excepción de salud y las universidades en sus actividades de salud (Ministerio de Salud y Protección Social, 2019).',
     },
     {
       termino: 'Evaluación',
@@ -198,7 +198,7 @@ export default {
     {
       termino: 'PTS',
       significado:
-        'Plan Territorial de Salud es el instrumento estratégico e indicativo de política pública en salud, que permite a las entidades territoriales contribuir con el logro de las metas estratégicas del Plan Decenal de Salud Pública (Ministerio de Salud y Protección Social 2016).',
+        ' Plan Territorial de Salud es el instrumento estratégico e indicativo de política pública en salud, que permite a las entidades territoriales contribuir con el logro de las metas estratégicas del Plan Decenal de Salud Pública (Ministerio de Salud y Protección Social 2016).',
     },
   ],
   referencias: [

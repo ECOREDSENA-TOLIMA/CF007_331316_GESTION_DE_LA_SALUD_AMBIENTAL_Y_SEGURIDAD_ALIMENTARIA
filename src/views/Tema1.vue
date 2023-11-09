@@ -209,7 +209,7 @@
 
           .row(titulo="Historia clínica")
             .col-12
-              p.mb-0 Sistemas de Gestión de la Calidad. Directrices para la mejora del desempeño: esta norma proporciona ayuda para la gestión del éxito sostenido del sistema de gestión de la calidad para beneficiar a todas las partes interesadas a través de las mejoras y el mantenimiento de la satisfacción del cliente. La Norma ISO 9004 abarca tanto la eficiencia como la eficacia del sistema de gestión de la calidad.  Se puede tomar como una ampliación de la norma anterior y no es certificable.
+              p.mb-0 Sistemas de Gestión de la Calidad. Directrices para la mejora del desempeño: esta norma proporciona ayuda para la gestión del éxito sostenido del sistema de gestión de la calidad para beneficiar a todas las partes interesadas a través de las mejoras y el mantenimiento de la satisfacción del cliente. La Norma ISO 9004, abarca tanto la eficiencia como la eficacia del sistema de gestión de la calidad.  Se puede tomar como una ampliación de la norma anterior y no es certificable.
 
           .row(titulo="Ficha - Encuesta")
             .col-12
@@ -499,7 +499,7 @@
                 i.fas.fa-caret-up.fa-2x.me-3
                 i.fas.fa-caret-down.fa-2x.me-3
               h5.mb-0 <strong>ASIS de coyuntura</strong>
-            p La intención es identificar y determinar las condiciones de los factores que se acogen en los procesos de salud y enfermedad de una población mediante un tiempo medio o largo.
+            p Responden a un contexto y situaciones definidas de corto plazo que permiten orientar cursos de acción, dependiendo de condiciones de viabilidad y factibilidad de la coyuntura política existente.
 
     p(data-aos="fade-right").mb-5 Según la fuente de información que son los que vigilan los determinantes sociales de una región se encuentran:
 
@@ -569,7 +569,7 @@
               p #[b Pertinencia:] proceden del reconocimiento de condiciones específicas y diferenciales de la población y su realidad desde la efectividad. 
               p #[b Continuidad:] son lógicos y secuenciales, sin interrupción en el tiempo así contribuyen al logro de los resultados. 
               p #[b Integralidad:] coordinación y convergencia de acciones y esfuerzos en la promoción de la salud y gestión del riesgo, centradas en las personas, ante situaciones de salud. 
-              p #[b Adaptabilidad:] los contenidos, planeación, ejecución, seguimiento y evaluación, son en función de los resultados del ASIS y los riesgos asociados a este
+              p #[b Adaptabilidad:] los contenidos, planeación, ejecución, seguimiento y evaluación, son en función de los resultados del ASIS y los riesgos asociados a este.
 
           .row(titulo="Responsables en la elaboración")
             .col-12
