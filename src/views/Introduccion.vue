@@ -13,6 +13,10 @@
 
     p(data-aos="fade-right").mb-5 Se invita a ver el siguiente vídeo en donde se encontrará una información general de este interesante tema,      se podrá revisar tanto los conceptos como las normativas que regulan los procesos de seguridad sanitaria y ambiental:
 
+    figure
+      .video 
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/ceNhh1gexGs?si=bpn0TezKw09McgbD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen)
+
 
 
 
