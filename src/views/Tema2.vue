@@ -36,9 +36,9 @@
     p(data-aos="fade-right").mb-5 Entre los objetivos que se han trazado para sensibilizar a la población respecto al análisis del sistema de salud se encuentran:
 
     .row.justify-content-center.mb-5
-      .col-10
+      .col-12.col-md-10
         .row(data-aos="fade-left").mb-5
-          .col-6
+          .col-md-6
             .tarjeta--boton.color-secundario.p-4(style='height:100%')
               .row.justify-content-center.mb-3
                 .col-7
@@ -48,7 +48,7 @@
               h2.text-center Consolidar la calidad
               p.text-center Consolidar la cultura de monitoreo y evaluación en directivos, jefes de oficina, funcionarios y contratistas del Ministerio de Salud y Protección Social.
 
-          .col-6
+          .col-md-6
             .tarjeta--boton.color-primario.p-4(style='height:100%')
               .row.justify-content-center.mb-3
                 .col-7
@@ -147,7 +147,7 @@
         .col-4
           img(src='@/assets/curso/temas/tema2/10.png')
         .col-8 
-          p Como se indicó, los responsable y usuarios del Sistema de monitoreo del Plan de Salud Pública, así como del Plan Territorial de Salud, se articulan para trabajar conjuntamente en el Plan de Sensibilización del SME, que también involucra las ARL y las Empresas Administradoras de los Planes de Beneficio -EAPB-, además de los organismos de control, así como las IPS y los ciudadanos. 
+          p Como se indicó, los responsables y usuarios del Sistema de monitoreo del Plan de Salud Pública, así como del Plan Territorial de Salud, se articulan para trabajar conjuntamente en el Plan de Sensibilización del SME, que también involucra las ARL y las Empresas Administradoras de los Planes de Beneficio -EAPB-, además de los organismos de control, así como las IPS y los ciudadanos. 
           .tarjeta.color-primario1.p-5(style="border-radius:0")
             p El sistema de monitoreo y evaluación del plan territorial de salud, está integrado por los siguientes componentes:
             ul.lista-ul--color

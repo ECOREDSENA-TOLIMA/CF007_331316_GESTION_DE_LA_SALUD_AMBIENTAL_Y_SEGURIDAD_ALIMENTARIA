@@ -37,12 +37,12 @@
     p(data-aos="fade-right").mb-5 En cuanto a las técnicas de análisis de un problema o circunstancia relacionada con la situación de salud, bien sea individual o colectiva, son herramientas que permiten hacer una intervención en un territorio particular, y requiere identificar el ámbito en el cual se encuentra la población de análisis:
 
     .row.mb-5
-      .col-4
+      .col-md-4.col-12.mb-2.mb-md-0
         .tarjeta.color-primario.p-4(style="height:100%")
           h3.text-center ¿Qué es el ámbito?
           p Refiere a la situación y esfera física, incorporando el estado y funcionamiento del organismo. A una mejor salud física, hay mayor oportunidad de integrarse en el contexto social al cual se pertenece, a la vez que posibilita el desarrollo de su potencial, lo cual repercutirá en el bienestar de la sociedad en general. 
           p El ámbito puede estar comprendido por varios planes que orientan las intervenciones de salud teniendo en cuenta los problemas, las necesidades y demás situaciones que se son posibles de presentar en una persona o comunidad.
-      .col-4
+      .col-md-4.col-12.mb-2.mb-md-0
         .tarjeta.color-secundario.p-4(style="height:100%")
           h3.text-center ¿A quién responde?
           p Puede responder a tres elementos específicos: 
@@ -59,7 +59,7 @@
               .lista-ol--cuadro__vineta
                 span(style="color:#000 !important") <strong>3</strong>
               | Entidad territorial, bajo un mismo ordenamiento físico o político que comparte un mismo significado que es válido para la comunidad.
-      .col-4
+      .col-md-4.col-12.mb-2.mb-md-0
         .tarjeta.color-acento-contenido.p-4(style="height:100%")
           h3.text-center ¿Cómo se identifica?
           p La identificación del ámbito se realiza particularmente mediante: 
@@ -107,9 +107,11 @@
 
     p(data-aos="fade-right").mb-5 En general la caracterización de una población, mide y resume todas las situaciones de salud en una región y tiene presente lo que corresponde al orden territorial y demográfico; los componentes propios de esta clasificación se relacionan con la priorización y los que corresponden con la diferenciación en cuanto a lo individual. Todos estos se explican a continuación:
 
-    .d-flex.flex-wrap.align-items-center(data-aos="fade-right").mb-5
-      img(src='@/assets/curso/temas/icono.svg' style="max-width: 30px;")
-      .h3.col-auto.pb-2.mb-0.ms-2(style=" color: #455B2D;") Caracterización territorial y demográfica
+
+    .row.align-items-center.mb-4(data-aos="fade-down-right")
+      .d-flex.titulo-h3
+        img(src='@/assets/curso/temas/icono.svg', style="width: 30px", alt='')
+        h3.mb-0.ms-3 Caracterización territorial y demográfica
 
     p(data-aos="fade-right") Comprende el estudio de los determinantes sociales en salud. La #[b Resolución 1536 del 2015], establece que es una metodología de análisis de riesgos, tanto a nivel individual como colectivo, mediante la cual no solo se identifica el riesgo, sino que además prioriza las intervenciones individuales requeridas para la prevención o mitigación de dichos riesgos, acciones que se hacen mediante entidades encargadas para tal fin.
     p(data-aos="fade-right").mb-5 La caracterización poblacional, no son los análisis de riesgos de las EPS, o listas de indicadores, tampoco son los perfiles de morbimortalidad de las EPS.
@@ -133,9 +135,10 @@
           img.mb-3(src='@/assets/curso/temas/tema1/7-m.svg', alt='La figura 2, presenta un diagrama de la caracterización poblacional que se encuentra dentro del modelo integral de atención en salud, y que permite constituir los planes coherentes con las necesidades y problemas de salud de la población.')
           figcaption Nota. Modelo Integral de Atención en Salud. MINSALUD (s.f.).
 
-    .d-flex.flex-wrap.align-items-center(data-aos="fade-right").mb-5
-      img(src='@/assets/curso/temas/icono.svg' style="max-width: 30px;")
-      .h3.col-auto.pb-2.mb-0.ms-2(style=" color: #455B2D;") Componentes de la caracterización
+    .row.align-items-center.mb-4(data-aos="fade-down-right")
+      .d-flex.titulo-h3
+        img(src='@/assets/curso/temas/icono.svg', style="width: 30px", alt='')
+        h3.mb-0.ms-3 Componentes de la caracterización
 
     p(data-aos="fade-right").mb-5 Toda caracterización requiere de dimensiones que sean posibles de evaluar, y analizar, con el fin de integrar el marco en el cual se reportarán los datos de los riesgos poblacionales presentes. Para dar claridad sobre este tema, en la siguiente gráfica, se encontrará una descripción al respecto (ver figura 3):
 
@@ -153,9 +156,10 @@
         figure
           img.mb-3(src='@/assets/curso/temas/tema1/8-m.svg', alt='La figura 3, responde a los cuestionamientos que se formulan al interior de la caracterización en salud, como son: 1. ¿Cómo se componen? 2. ¿Quiénes hacen parte? 3. ¿Cómo se generan los datos?')
 
-    .d-flex.flex-wrap.align-items-center(data-aos="fade-right").mb-5
-      img(src='@/assets/curso/temas/icono.svg' style="max-width: 30px;")
-      .h3.col-auto.pb-2.mb-0.ms-2(style=" color: #455B2D;") Componentes de la priorización 
+    .row.align-items-center.mb-4(data-aos="fade-down-right")
+      .d-flex.titulo-h3
+        img(src='@/assets/curso/temas/icono.svg', style="width: 30px", alt='')
+        h3.mb-0.ms-3 Componentes de la priorización 
     p(data-aos="fade-right").mb-5 Se relaciona con el reconocimiento de los principales efectos de salud identificados previamente, corresponde con los Índices de Necesidades en Salud (INS), y es a partir de este punto que se podrán formular propuestas de objetivos sanitarios para la planificación. En la siguiente figura se puede observar cuáles son los componentes que hacen parte de la priorización:
 
     .row.justify-content-center.align-items-center.mb-5
@@ -174,9 +178,10 @@
           img.mb-3(src='@/assets/curso/temas/tema1/9-m.svg', alt='La figura 4 establece los 9 componentes que hacen parte de la priorización en atención en salud, y se identifican aquellos que son de orden municipal y distrital y los que corresponden a los departamentos.')
           figcaption Nota. Modelo Integral de Atención en Salud. MINSALUD (s.f.).
 
-    .d-flex.flex-wrap.align-items-center(data-aos="fade-right").mb-5
-      img(src='@/assets/curso/temas/icono.svg' style="max-width: 30px;")
-      .h3.col-auto.pb-2.mb-0.ms-2(style=" color: #455B2D;") Caracterización individual 
+    .row.align-items-center.mb-4(data-aos="fade-down-right")
+      .d-flex.titulo-h3
+        img(src='@/assets/curso/temas/icono.svg', style="width: 30px", alt='')
+        h3.mb-0.ms-3 Caracterización individual 
     p(data-aos="fade-right").mb-5 Está compuesto por varios sistemas, en los que se evidencian las situaciones de salud, y se organizan soluciones a través de la atención dirigida a la familia, teniendo en cuenta las intervenciones que se realizan a nivel del ciclo de vida, como se puede observar a continuación:
 
     .row.justify-content-center.align-items-center.mb-5
@@ -275,7 +280,7 @@
 
 
     #t_1_1.titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      h2 1.1 Análisis de la situación en salud (ASIS)  
+      h2 1.1 Análisis de la Situación en Salud (ASIS)  
 
     .row.justify-content-center.align-items-center.mb-5
       .col-10
@@ -373,8 +378,11 @@
             .col-8
               img(src='@/assets/curso/temas/tema1/19.svg' alt='AvatarTop')
           h3 Los determinantes de la salud
-          p Determinantes intermediarios de la salud: · Circunstancias materiales. 
+          p Determinantes intermediarios de la salud:  
           ul.lista-ul--color
+            li 
+              i.fas.fa-check
+              | Circunstancias materiales. 
             li 
               i.fas.fa-check
               | Factores conductuales, psicológicos y culturales. 
@@ -436,7 +444,7 @@
               | Establecer un ASIS, cada vez más riguroso en concordancia con el Plan Decenal de Salud Pública PDSP, el cual se genera cada cuatro años, siguiendo los dictámenes del Ministerio de Salud y de la Protección Social.
             li 
               .lista-ol--cuadro__vineta
-                span(style="color:#000 !important") <strong>1</strong>
+                span(style="color:#000 !important") <strong>2</strong>
               | Reajustar el ASIS en todas sus dimensiones, de acuerdo con los resultados de riesgo surgidos durante el proceso, y que obligan a encontrar estrategias de prevención y promoción con el fin de hacer un reconocimiento de los problemas de salud y sus determinantes sociales.
       .col-4
         img(src='@/assets/curso/temas/tema1/23.png')
@@ -457,9 +465,10 @@
        .cajon.color-secundario.p-4
           p En conclusión, como lo indica la OPS, en su boletín epidemiológico de 1990, 1-3, “los ASIS sirven para la negociación política, la conducción institucional, la movilización de recursos y la diseminación de información en salud. Su meta principal es contribuir a la toma racional de decisiones para la satisfacción de necesidades en salud de la población con un máximo de equidad, eficiencia y participación social”.
 
-    .d-flex.flex-wrap.align-items-center(data-aos="fade-right").mb-5
-      img(src='@/assets/curso/temas/icono.svg' style="max-width: 30px;")
-      .h3.col-auto.pb-2.mb-0.ms-2(style=" color: #455B2D;") Diferencia entre ASIS, diagnóstico y perfil de morbilidad y mortalidad. 
+    .row.align-items-center.mb-4(data-aos="fade-down-right")
+      .d-flex.titulo-h3
+        img(src='@/assets/curso/temas/icono.svg', style="width: 30px", alt='')
+        h3.mb-0.ms-3 Diferencia entre ASIS, diagnóstico y perfil de morbilidad y mortalidad. 
     
     .row.justify-content-center.align-items-center.mb-5
       .col-8 
@@ -469,9 +478,10 @@
       .col-4
         img(src='@/assets/curso/temas/tema1/25.png')
 
-    .d-flex.flex-wrap.align-items-center(data-aos="fade-right").mb-5
-      img(src='@/assets/curso/temas/icono.svg' style="max-width: 30px;")
-      .h3.col-auto.pb-2.mb-0.ms-2(style=" color: #455B2D;") Tipos de ASIS. 
+    .row.align-items-center.mb-4(data-aos="fade-down-right")
+      .d-flex.titulo-h3
+        img(src='@/assets/curso/temas/icono.svg', style="width: 30px", alt='')
+        h3.mb-0.ms-3 Tipos de ASIS. 
 
     p Se han clasificado los ASIS, de acuerdo con el propósito, la funcionalidad y la fuente de información. 
     p.mb-5 Según el propósito se han identificado dos tipos de análisis de salud, estos son:
@@ -559,7 +569,7 @@
             .col-12
               p #[b Estatal:] es dirigido y administrado por el Estado. Su formulación, ejecución, seguimiento y evaluación está a cargo de los Departamentos, Distritos y Municipios de acuerdo con la normatividad vigente, articulado con PDSP y los Planes Territoriales de Salud, dictados por este Ministerio. 
               p #[b Gratuidad:] las intervenciones colectivas que constituyen el PIC son gratuitas y dirigidas a la totalidad de la población. Su ejecución no está sujeta a condiciones de afiliación, periodos mínimos de cotización, copagos, cuotas moderadoras o cuotas de recuperación. 
-              p #[b Territorialidad:] es autónomo, se desarrolla en el territorio - departamento, distrito y municipio-. Las intervenciones colectivas que constituyen el PIC las define cada entidad territorial conforme a la situación de salud de la población, las expectativas de los sujetos en relación con su propia salud, el contexto territorial. las directrices nacionales y atendiendo a lo dispuesto en la resolución 0518.
+              p #[b Territorialidad:] es autónomo, se desarrolla en el territorio - departamento, distrito y municipio-. Las intervenciones colectivas que constituyen el PIC las define cada entidad territorial conforme a la situación de salud de la población, las expectativas de los sujetos en relación con su propia salud, el contexto territorial. Las directrices nacionales y atendiendo a lo dispuesto en la resolución 0518.
 
           .row(titulo="Características de calidad de las intervenciones colectivas")
             .col-12
@@ -635,7 +645,7 @@
           h3 Material complementario la resolución 0518 de 2015.
           .titulo-segundo.color-acento-contenido
           p Le invitamos a consultar en el material complementario el correspondiente a la #[b Resolución 0518 de 2015]. 
-          p.mb-4 Con el fin de ampliar la información respecto a la Gestión Pública y las directrices para la ejecución, seguimiento y evaluación del Plan de Salud Pública de Intervenciones Colectivas – PIC, se hace extensiva invitación para que consulte la resolución emitida por el Ministerios de Salud y Protección Social.  
+          p.mb-4 Con el fin de ampliar la información respecto a la Gestión Pública y las directrices para la ejecución, seguimiento y evaluación del Plan de Salud Pública de Intervenciones Colectivas – PIC, se hace extensiva invitación para que consulte la resolución emitida por el Ministerio de Salud y Protección Social.  
           a.boton.color-acento-botones.texto-blanco(:href="obtenerLink('/downloads/resolucion_0518_2015.pdf')" target="_blank" type="application/pdf")
             span Descargar
             i.fas.fa-file-download

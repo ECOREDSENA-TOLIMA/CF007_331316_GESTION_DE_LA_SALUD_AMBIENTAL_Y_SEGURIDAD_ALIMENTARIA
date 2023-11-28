@@ -34,7 +34,7 @@ export default {
         subMenu: [
           {
             numero: '1.1',
-            titulo: 'Análisis de la situación en salud (ASIS)  ',
+            titulo: 'Análisis de la Situación en Salud (ASIS)  ',
             hash: 't_1_1',
           },
           {
