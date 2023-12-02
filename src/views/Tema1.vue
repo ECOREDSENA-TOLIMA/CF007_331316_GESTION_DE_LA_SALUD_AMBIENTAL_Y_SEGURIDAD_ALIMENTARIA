@@ -518,7 +518,7 @@
         .row
           .col
             p Permiten conocer la caracterización de las comunidades por ciclos de vida mediante la información recogida en la IPS, por ejemplo, tazas de natalidad y mortalidad.
-            p Las acciones e intervenciones basadas en este tipo de ASIS deben posibilitar modificar de alguna forma lo encontrado, así como contribuir en la modificar, de alguna forma, la realidad encontrada, así como contribuir en la puesta en marcha de las políticas de salud.
+            p Las acciones e intervenciones basadas en este tipo de ASIS deben posibilitar modificar de alguna forma lo encontrado, así como contribuir en modificar, de alguna forma, la realidad encontrada, así como contribuir en la puesta en marcha de las políticas de salud.
 
       .tarjeta.color-primario1.p-4(titulo="ASIS Comunitarios")
         .row
